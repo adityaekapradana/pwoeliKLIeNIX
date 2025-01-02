@@ -1,5 +1,6 @@
 NIM          : A11.2021.13694 <br />
 Nama         : Aditya Eka Pradana <br />
+Kelas        : WD08 <br/>
 
 <center><h1>TUGAS 2 BK</h1><center/>
 
