@@ -9,10 +9,8 @@ Nama         : Aditya Eka Pradana <br />
    >Password: admin <br />
 
 3. Login sebagai dokter <br />
-<ol>
-   <li>Username: [nama dokter bisa dilihat di database] <li />
-   <li>Password: [nama dokter bisa dilihat di database] <li />
-</ol>
+   Username: [nama dokter bisa dilihat di database]
+   Password: [nama dokter bisa dilihat di database] 
    
     
 
