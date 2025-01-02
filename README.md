@@ -1,7 +1,7 @@
 NIM          : A11.2021.13694 <br />
 Nama         : Aditya Eka Pradana <br />
 
-                                                  **<h1>TUGAS 2 BK</h1>**
+                                                  <h1>TUGAS 2 BK</h1>
 
 1. Login Admin di halaman login Dokter
    Login sebagai admin <br />
